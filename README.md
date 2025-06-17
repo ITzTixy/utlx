@@ -10,7 +10,7 @@ A powerful and simple Python based load testing tool made by Necuix for testing 
 
 4. git clone https://github.com/ITzTixy/utlx
 
-5. chmod +x utlx.p
+5. chmod +x utlx.py
 
 6. python3 utlx.py
 
